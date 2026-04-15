@@ -3,7 +3,7 @@
   "name": "Claude Code",
   "version": "1.0.0",
   "minAppVersion": "1.4.5",
-  "description": "Access Claude Code directly inside Obsidian as a sidebar panel, enabling agentic AI with file editing, Bash commands, web search, and multi-step task workflows.",
+  "description": "Access Claude Code directly as a sidebar panel with agentic AI: file editing, Bash commands, web search, and multi-step task workflows.",
   "author": "Torrey Leonard",
   "authorUrl": "https://github.com/torreyleonard",
   "isDesktopOnly": true
