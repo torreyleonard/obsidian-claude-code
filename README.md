@@ -8,6 +8,8 @@ Embed [Claude Code](https://claude.ai/code) as a sidebar panel in Obsidian, givi
 - **Claude Code VSCode extension** installed in VSCode (`anthropic.claude-code`)
 - The plugin uses the extension's bundled binary, so the extension must be present
 
+<img width="1069" height="868" alt="Screenshot 2026-04-15 at 7 16 39 PM" src="https://github.com/user-attachments/assets/0bf30838-dbbd-46ef-a85f-77aa8339ba52" />
+
 ## Installation
 
 ### From Community Plugins (recommended)
